@@ -66,10 +66,8 @@ The dataset contains retail sales information including:
 ---
 
 ## 📷 Dashboard Preview
+<img width="1894" height="991" alt="Screenshot 2026-03-28 234442" src="https://github.com/user-attachments/assets/9aeb6b6b-d516-4ab8-a753-5fb03dfe9400" />
 
-*(Add your screenshot here)*
-
----
 
 ## 🚀 How to Use
 
