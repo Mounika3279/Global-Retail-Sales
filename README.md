@@ -1,41 +1,38 @@
-# Global-Retail-Sales
 # 📊 Global Retail Sales Dashboard
 
 ## 📌 Project Overview
 
 This project presents an interactive **Retail Sales Dashboard** built using Power BI.
-It helps analyze sales performance, customer behavior, and order trends to support data-driven decision making.
+It helps analyze sales performance, customer behavior, and order trends for better decision-making.
 
 ---
 
 ## 🎯 Objectives
 
-* Analyze overall sales and revenue trends
-* Identify top-performing categories and products
-* Track order status and customer distribution
+* Analyze total revenue and order trends
+* Identify top-performing product categories
+* Track order status distribution
 * Visualize monthly sales performance
 
 ---
 
-## 📁 Dataset
+## 📷 Dashboard Preview
 
-The dataset contains retail sales information including:
+![Dashboard Preview](https://github.com/user-attachments/assets/9aeb6b6b-d516-4ab8-a753-5fb03dfe9400)
 
-* Order ID
-* Customer ID
-* Product Name
-* Category
-* Order Date
-* Revenue ($)
-* Order Status
-* Shipping Mode
-* Customer Segment
+
+---
+
+## 📥 Download Files
+
+* [📊 Download Power BI Dashboard](retails_sales_report.pbix)
+* [📂 Download Dataset](global_retail_sales_updated.xlsx)
 
 ---
 
 ## 📊 Dashboard Features
 
-### 🔹 KPI Cards
+### 🔹 KPIs
 
 * Total Revenue
 * Total Orders
@@ -44,45 +41,26 @@ The dataset contains retail sales information including:
 
 ### 🔹 Visualizations
 
-* 📊 Bar Chart → Sales by Category
-* 📈 Line Chart → Monthly Revenue Trend
-* 🥧 Pie Chart → Sales Distribution by Category
-* 🔻 Funnel Chart → Orders by Status
-* 📦 Top Products Analysis
-
-### 🔹 Filters (Slicers)
-
-* Category
-* Order Date
-* Customer Segment
+* Bar Chart → Sales by Category
+* Line Chart → Monthly Revenue Trend
+* Pie Chart → Sales Distribution
+* Funnel Chart → Order Status
+* Top Products Analysis
 
 ---
 
 ## 🛠 Tools Used
 
 * Power BI Desktop
-* Excel (Data Source)
+* Microsoft Excel
 
 ---
-
-## 📷 Dashboard Preview
-<img width="1894" height="991" alt="Screenshot 2026-03-28 234442" src="https://github.com/user-attachments/assets/9aeb6b6b-d516-4ab8-a753-5fb03dfe9400" />
-
 
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
-2. Open it in Power BI Desktop
-3. Explore the dashboard using filters and visuals
-
----
-
-## 📌 Insights Gained
-
-* Identified high revenue-generating categories
-* Observed monthly sales trends
-* Analyzed order completion rates
-* Compared customer segments
+2. Open in Power BI Desktop
+3. Explore using filters and visuals
 
 ---
 
@@ -93,6 +71,7 @@ The dataset contains retail sales information including:
 
 ---
 
-## 📎 Note
+## 📌 Note
 
-This project is created for learning and academic purposes.
+This project is created for academic and learning purposes.
+
